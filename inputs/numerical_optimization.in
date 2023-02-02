@@ -1,0 +1,5 @@
+// The program input for numerical_optimization_confidence/src/main.leo
+[main]
+w0: i64 = 1419997484289340i64;
+w1: i64 = 869996074383000i64;
+w2: i64 = 2150007464207980i64;
